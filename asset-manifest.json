@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-deploy-testing/static/css/main.a43aed85.chunk.css",
+    "main.js": "/react-deploy-testing/static/js/main.221779fb.chunk.js",
+    "main.js.map": "/react-deploy-testing/static/js/main.221779fb.chunk.js.map",
+    "runtime-main.js": "/react-deploy-testing/static/js/runtime-main.faaaf859.js",
+    "runtime-main.js.map": "/react-deploy-testing/static/js/runtime-main.faaaf859.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/react-deploy-testing/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b0aa3af3.chunk.js": "/react-deploy-testing/static/js/2.b0aa3af3.chunk.js",
+    "static/js/2.b0aa3af3.chunk.js.map": "/react-deploy-testing/static/js/2.b0aa3af3.chunk.js.map",
+    "static/js/3.8c29baa0.chunk.js": "/react-deploy-testing/static/js/3.8c29baa0.chunk.js",
+    "static/js/3.8c29baa0.chunk.js.map": "/react-deploy-testing/static/js/3.8c29baa0.chunk.js.map",
+    "index.html": "/react-deploy-testing/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/react-deploy-testing/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.a43aed85.chunk.css.map": "/react-deploy-testing/static/css/main.a43aed85.chunk.css.map",
+    "static/js/2.b0aa3af3.chunk.js.LICENSE.txt": "/react-deploy-testing/static/js/2.b0aa3af3.chunk.js.LICENSE.txt",
+    "static/media/1.b3c21e4d.jpeg": "/react-deploy-testing/static/media/1.b3c21e4d.jpeg",
+    "static/media/2.81529152.jpeg": "/react-deploy-testing/static/media/2.81529152.jpeg",
+    "static/media/3.ca811cc9.jpeg": "/react-deploy-testing/static/media/3.ca811cc9.jpeg",
+    "static/media/4.e7a727ec.jpeg": "/react-deploy-testing/static/media/4.e7a727ec.jpeg",
+    "static/media/5.8314e9fc.jpeg": "/react-deploy-testing/static/media/5.8314e9fc.jpeg",
+    "static/media/6.17f33843.jpeg": "/react-deploy-testing/static/media/6.17f33843.jpeg",
+    "static/media/7.c35bb083.jpeg": "/react-deploy-testing/static/media/7.c35bb083.jpeg",
+    "static/media/8.207aadb1.jpeg": "/react-deploy-testing/static/media/8.207aadb1.jpeg",
+    "static/media/9.d7a38eb8.jpeg": "/react-deploy-testing/static/media/9.d7a38eb8.jpeg",
+    "static/media/BLACK.a5cc40c1.PNG": "/react-deploy-testing/static/media/BLACK.a5cc40c1.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.faaaf859.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b0aa3af3.chunk.js",
+    "static/css/main.a43aed85.chunk.css",
+    "static/js/main.221779fb.chunk.js"
+  ]
+}

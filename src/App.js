@@ -15,23 +15,28 @@ import image9 from './9.jpeg'
 
 function App() {
   return (
-      <div class="container">
-        <div className="logo text-center">
-            <img src={logo}/>
-        </div>
-        <div class="parent">
-          <div class="photos">
-            <img src={image1} class="images"/>
-            <img src={image2} class="images"/>
-            <img src={image3} class="images"/>
-            <img src={image4} class="images"/>
-            <img src={image5} class="images"/>
-            <img src={image6} class="images"/>
-            <img src={image7} class="images"/>
-            <img src={image8}class="images"/>
-            <img src={image9}class="images"/>
+      <div>
+          <div className="">
+            <div className="logo text-center">
+              <img src={logo}/>
+            </div>
           </div>
-        </div>
+          <div class={window.screen.width>481 ? "container" : "" }>
+            {console.log(window.screen.width)}
+            <div class="parent">
+              <div class="photos">
+                <img src={image1} class="images"/>
+                <img src={image2} class="images"/>
+                <img src={image3} class="images"/>
+                <img src={image4} class="images"/>
+                <img src={image5} class="images"/>
+                <img src={image6} class="images"/>
+                <img src={image7} class="images"/>
+                <img src={image8}class="images"/>
+                <img src={image9}class="images"/>
+              </div>
+            </div>
+          </div>
       </div>
     );
 }

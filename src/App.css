@@ -121,15 +121,12 @@ li{
 {
   img{
     width: 300px;
-   
   }
 }
 @media only screen and (min-width: 481px) and (max-width: 768px) 
 {
   img{
-  
-    width: 300px;
-     
+    width: 300px; 
   }
 }
 @media only screen and (min-width: 769px) and (max-width: 991px) 

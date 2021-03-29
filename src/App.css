@@ -102,6 +102,7 @@ img{
 .container{
   min-width: 630px  !important;
   max-width: 1800px !important;
+  justify-content: center !important;
 }
 .navbar{
   display: flex;
